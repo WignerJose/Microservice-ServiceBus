@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "S1EIty7mc6WVee5fAYmPm4Yl/JasGLwxuh3vH8R75As=",
+  "Source": "ServiceBus.Consumer",
+  "BasePath": "_content/ServiceBus.Consumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

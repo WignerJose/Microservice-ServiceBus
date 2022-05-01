@@ -1,0 +1,7 @@
+D:\ProjectWork\Backend 2022\Migracion\ServiceBus\ServciceBus.Client\obj\Debug\net6.0\ServciceBus.Client.csproj.AssemblyReference.cache
+D:\ProjectWork\Backend 2022\Migracion\ServiceBus\ServciceBus.Client\obj\Debug\net6.0\ServciceBus.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectWork\Backend 2022\Migracion\ServiceBus\ServciceBus.Client\obj\Debug\net6.0\ServciceBus.Client.AssemblyInfoInputs.cache
+D:\ProjectWork\Backend 2022\Migracion\ServiceBus\ServciceBus.Client\obj\Debug\net6.0\ServciceBus.Client.AssemblyInfo.cs
+D:\ProjectWork\Backend 2022\Migracion\ServiceBus\ServciceBus.Client\obj\Debug\net6.0\ServciceBus.Client.csproj.CoreCompileInputs.cache
+D:\ProjectWork\Backend 2022\Migracion\ServiceBus\ServciceBus.Client\obj\Debug\net6.0\ServciceBus.Client.MvcApplicationPartsAssemblyInfo.cs
+D:\ProjectWork\Backend 2022\Migracion\ServiceBus\ServciceBus.Client\obj\Debug\net6.0\ServciceBus.Client.MvcApplicationPartsAssemblyInfo.cache
